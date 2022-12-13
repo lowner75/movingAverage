@@ -42,5 +42,3 @@ const calculateMovingAverage = (data, timeFrame) => {
 	return movingAverage;
 
 };
-
-console.log(calculateMovingAverage(data, timeFrame));
